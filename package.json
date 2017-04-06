@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/eshinn/githook-test/issues"
   },
-  "homepage": "https://github.com/eshinn/githook-test#readme"
+  "homepage": "https://github.com/eshinn/githook-test#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "pug-cli": "^1.0.0-alpha6",
+    "pug": "^2.0.0-beta11"
+  }
 }
